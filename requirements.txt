@@ -10,7 +10,6 @@ cmake==3.25.2
 colorama==0.4.6
 distlib==0.3.6
 Django==4.1.7
-dlib @ file:///C:/Users/Vijay/Downloads/dlib_compiled-19.22/dlib_compiled-19.22/dlib-19.22.99-cp39-cp39-win_amd64.whl
 filelock==3.9.0
 flatbuffers==23.1.21
 gast==0.4.0
@@ -18,6 +17,7 @@ google-auth==2.16.0
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 grpcio==1.51.1
+gunicorn==20.1.0
 h5py==3.8.0
 idna==3.4
 importlib-metadata==6.0.0
